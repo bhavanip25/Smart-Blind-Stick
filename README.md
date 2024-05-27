@@ -1,1 +1,2 @@
 # Smart-Blind-Stick
+Nowadays most of the common people have been suffering from severe reduction in vision and they didn’t identify the objects around them or anything else which can cause them like small injuries so to overcome this problem we had developed Smart Blind Stick, to serve the people. It is a device which is used to detect the objects by alerting the user from producing a sound and helps to avoid such minor auto accidents.
